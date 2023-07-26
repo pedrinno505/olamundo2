@@ -1,3 +1,4 @@
-header
- {background-color: darkgray;}
-  color :-moz-only-whitespace
+header{
+    background-color: darkgray;
+color: rgb(255, 255, 255);
+}
